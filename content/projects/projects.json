@@ -1,0 +1,28 @@
+[
+  {
+    "title": "OurTravel: Journey Matcher",
+    "tags": [ "project", "research", "GPS", "spatial"],
+    "cover": "https://dev-to-uploads.s3.amazonaws.com/i/95lvt23xz4ozer5byomi.png",
+    "des": "There isn't really a simple blogging tool for Vue. VuePress works, but it's to complicated. So for that purpose, I developed this light-weight blogging site for Vue: VueBlogger.",
+    "date": [
+      2011,
+      6,
+      1
+    ],
+    "id": "ourtravel-tracker",
+    "alttext": "image of vue logo"
+  },
+  {
+    "title": "Understanding Student Energy",
+    "tags": [ "project", "research", "energy sensing", "plugwise", "mesh IoT"],
+    "cover": "https://dev-to-uploads.s3.amazonaws.com/i/95lvt23xz4ozer5byomi.png",
+    "des": "There isn't really a simple blogging tool for Vue. VuePress works, but it's to complicated. So for that purpose, I developed this light-weight blogging site for Vue: VueBlogger.",
+    "date": [
+      2010,
+      10,
+      1
+    ],
+    "id": "student-energy",
+    "alttext": "image of vue logo"
+  }
+  ]
